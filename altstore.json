@@ -22,5 +22,15 @@
       "tintColor": "#007AFF",
       "installURL": "https://example.com/altstore.ipa"
     }
+   {
+name": "Minecraft",
+      "bundle identifier ": "com.mojang.minecraftpe",
+      "developerName": "Mojang",
+      "subtitle": "Minecraft",
+      "version": "1.7.0",
+      "iconURL": "https://i.ibb.co/XYZ123/altstoreicon.png",
+      "tintColor": "#007AFF",
+      "installURL": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/1005830394/cfbe1e7e-6749-4584-bd05-bf26a1243cee?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250621%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250621T055521Z&X-Amz-Expires=1800&X-Amz-Signature=17aabd04f16f2c1effab12cbd19a6fd8be9ea9dfc9e7512a148983dbe23a4b5b&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DMinecraft-ipaomtk.com_1.21.80.ipa&response-content-type=application%2Foctet-stream"
+    }
   ]
 }
