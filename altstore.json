@@ -20,7 +20,7 @@
       "version": "1.7.0",
       "iconURL": "https://i.ibb.co/XYZ123/altstoreicon.png",
       "tintColor": "#007AFF",
-      "installURL": "https://example.com/altstore.ipa"
+      "installURL": "https://cdn.altstore.io/file/altstore/apps/altstore/2_2_1.ipa"
     },
      {
        "name": "Minecraft",
