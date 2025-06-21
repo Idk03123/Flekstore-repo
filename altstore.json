@@ -22,9 +22,9 @@
       "tintColor": "#007AFF",
       "installURL": "https://cdn.altstore.io/file/altstore/apps/altstore/2_2_1.ipa"
     },
-     {
-       "name": "Minecraft",
-      "bundle identifier ": "com.mojang.minecraftpe",
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.mojang.minecraftpe",
       "developerName": "Mojang",
       "subtitle": "Minecraft",
       "version": "1.7.0",
