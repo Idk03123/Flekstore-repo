@@ -1,4 +1,6 @@
 {
+  "name": "My Flekstore Repo",
+  "identifier": "com.yourname.repo",
   "apps": [
     {
       "name": "iPogo",
@@ -16,9 +18,9 @@
       "developerName": "Riley Testut",
       "subtitle": "AltStore Installer",
       "version": "1.7.0",
-      "iconURL": "https://ibb.co/SDTz7zwf",
+      "iconURL": "https://i.ibb.co/XYZ123/altstoreicon.png",
       "tintColor": "#007AFF",
-      "installURL": "Download AltStore IPA"
+      "installURL": "https://example.com/altstore.ipa"
     }
   ]
 }
