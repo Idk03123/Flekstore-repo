@@ -1,0 +1,26 @@
+{
+  "name": "My Flekstore Repo",
+  "identifier": "com.yourname.repo",
+  "apps": [
+    {
+      "name": "iPogo",
+      "bundleIdentifier": "com.nianticlabs.pokemongo",
+      "developerName": "iPogo Devs",
+      "subtitle": "Spoof Pokémon GO",
+      "version": "3.8.2",
+      "iconURL": "https://i.imgur.com/MjzfVKd.png",
+      "tintColor": "#4CAF50",
+      "installURL": "https://ipogo.app/download/ipogo-3.8.3.ipa"
+    },
+    {
+      "name": "AltStore",
+      "bundleIdentifier": "com.altstore.altstore",
+      "developerName": "Riley Testut",
+      "subtitle": "AltStore Installer",
+      "version": "1.7.0",
+      "iconURL": "https://i.ibb.co/XYZ123/altstoreicon.png",
+      "tintColor": "#007AFF",
+      "installURL": "https://example.com/altstore.ipa"
+    }
+  ]
+}
